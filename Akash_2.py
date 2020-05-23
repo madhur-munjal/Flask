@@ -1,1 +1,0 @@
-print('Akash_2')
